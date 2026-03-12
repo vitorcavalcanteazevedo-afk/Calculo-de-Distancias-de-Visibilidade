@@ -1,0 +1,5 @@
+{
+  "name": "Highway Visibility Analyzer",
+  "description": "Calcula a distância de visibilidade de parada em rodovias usando dados de elevação e topografia.",
+  "requestFramePermissions": ["geolocation"]
+}

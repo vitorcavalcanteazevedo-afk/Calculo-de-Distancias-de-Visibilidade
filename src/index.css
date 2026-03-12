@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --color-goinfra-green: #006b3f;
+  --color-goinfra-green-light: #008a51;
+  --color-goinfra-yellow: #f9d71c;
+  --color-goinfra-blue: #003399;
+}
